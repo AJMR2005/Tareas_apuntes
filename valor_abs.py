@@ -1,4 +1,4 @@
-x = 5
+
 
 def valor_absoluto(x):
     if(x>=0):
@@ -12,6 +12,4 @@ x = float(input("digite un numero real:"))
 i= 0
 while(i<= 10):
     print("el número",i)
-    print(i)
     i += 1
-
