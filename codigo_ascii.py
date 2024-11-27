@@ -19,3 +19,4 @@ def f(x):
 
 numcua =(input('ingrese el numero que desea al cuadrado'))
 print(f(5))
+##adhjshdjs
