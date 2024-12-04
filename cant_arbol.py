@@ -1,4 +1,4 @@
-'''#Arnold Joseph Merchan Rojas
+#Arnold Joseph Merchan Rojas
 #numero de arboles necesarios para obtener t numero de hojas
 k=8
 p=20
@@ -17,5 +17,5 @@ int_comp=0
 cant_dine = int(input('ingrese la cantidad de dinero que le prestaron'))
 dias=int(input('ingrese la cantidad de dias por la que le hicieron el prestamo'))
 interes = int(input('ongrese el porcentaje de interes'))
-int_sim= cant_dine=((cant_dine* interes)/100)'''
+int_sim= cant_dine=((cant_dine* interes)/100)
 
